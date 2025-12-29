@@ -1,5 +1,5 @@
-CREATE DATABASE k24_cntt2_ss02_kha1;
-USE k24_cntt2_ss02_kha1;
+CREATE DATABASE k24_cntt3_ss02_kha1;
+USE k24_cntt3_ss02_kha1;
 CREATE TABLE Class (
     class_id VARCHAR(10) PRIMARY KEY,
     class_name VARCHAR(50) NOT NULL,
