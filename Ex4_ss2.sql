@@ -1,5 +1,5 @@
-CREATE DATABASE k24_cntt2_ss02_gioi2;
-USE k24_cntt2_ss02_gioi2;
+CREATE DATABASE k24_cntt3_ss02_gioi2;
+USE k24_cntt3_ss02_gioi2;
 
 CREATE TABLE Subject (
     subject_id VARCHAR(10) PRIMARY KEY,
