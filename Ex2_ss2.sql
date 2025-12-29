@@ -1,5 +1,5 @@
-CREATE DATABASE k24_cntt2_ss02_kha2;
-USE k24_cntt2_ss02_kha2;
+CREATE DATABASE k24_cntt3_ss02_kha2;
+USE k24_cntt3_ss02_kha2;
 
 CREATE TABLE Student (
     student_id VARCHAR(10) PRIMARY KEY,
